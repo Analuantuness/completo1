@@ -1,0 +1,36 @@
+body {
+    border:solid transparent;
+    font-size: 20px;
+    background-color:#341150;
+    margin-top: 100px;
+    
+    }
+
+
+    h2 {
+        text-align: center;
+    }
+  
+fieldset{
+    background-color: #ffffff;
+    border-color: black;
+    border-width: 3px;
+    border-style: 1px;
+    width: 900px;
+    position:center;
+    padding: 20px;
+    margin-top:0%;
+}
+
+  .catalog {
+    display: inline-block;
+    justify-content: space-between;
+    margin-bottom: 50px;
+  }
+  
+  .catalog-item {
+    width: 30%;
+    background-color: #f2f2f2;
+    padding: 50px;
+    margin-bottom: 20px;
+  }
